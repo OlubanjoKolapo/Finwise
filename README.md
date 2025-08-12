@@ -1,30 +1,20 @@
-# Image Analysis
+# Smart Finance Advisor
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A clean, sophisticated, and responsive React app that provides personalized financial advice based on your income, expenses, and risk tolerance. The app calculates savings, offers budget recommendations, suggests tailored investment options, and includes a handy grocery list feature — all wrapped in a minimalist and intuitive UI.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/olubanjos-projects/v0-finwise)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/V7k6hJLCuhH)
+## Features
 
-## Overview
+- User input for monthly income, expenses, and risk level  
+- Savings report with percentage visualization  
+- Budget breakdown displayed as an animated pie chart  
+- Investment advice tailored to risk tolerance (Low, Medium, High)  
+- Rotating actionable financial tips  
+- Interactive grocery list with autocomplete and local storage persistence  
+- Responsive design optimized for desktop and mobile  
+- Accessible and clean user experience
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Demo
+(https://usefinwise.vercel.app/)
 
-## Deployment
 
-Your project is live at:
 
-**[https://vercel.com/olubanjos-projects/v0-finwise](https://vercel.com/olubanjos-projects/v0-finwise)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/V7k6hJLCuhH](https://v0.app/chat/projects/V7k6hJLCuhH)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
